@@ -1,0 +1,6 @@
+(# indicates a comment)
+title: My DevCat Studios Portfolio
+description: This is my portfolio showcasing my projects and skills.
+baseurl: "" 
+url: "https://JG138933.github.io" 
+theme: jekyll-theme-Dinky
